@@ -4,35 +4,25 @@
 pandas
 numpy
 scipy
-
 # -----------------------------------------------------------------------------
 # Plotting and Visualization Libraries
 # -----------------------------------------------------------------------------
 matplotlib
 seaborn
 plotly
-
 # -----------------------------------------------------------------------------
 # Jupyter Environment (for interactive development)
 # -----------------------------------------------------------------------------
 ipykernel
-jupyterlab
-
 # -----------------------------------------------------------------------------
 # Machine Learning Libraries
 # -----------------------------------------------------------------------------
 scikit-learn
 
-# --- Gradient Boosting Models ---
-xgboost
-lightgbm
-# catboost
-
-# --- Optional Statistical Modeling ---
-# statsmodels
-
 # -----------------------------------------------------------------------------
 # Deep Learning Libraries (Neural Networks)
 # -----------------------------------------------------------------------------
-tensorflow
-scikeras
+torch
+torchvision
+torchaudio
+
